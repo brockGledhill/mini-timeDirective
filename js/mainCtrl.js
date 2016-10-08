@@ -1,6 +1,6 @@
-angular.module('timeApp').controller('mainCtrl', function($scope){
+angular.module('timeApp').controller('mainCtrl', function($scope) {
 
-$scope.name = 'Brock';
+    $scope.name = 'Brock';
 
 
 });
